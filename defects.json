@@ -1,0 +1,8 @@
+{
+    "1": {
+        "Title": "Login Failure",
+        "Description": "User cannot login with valid credentials",
+        "Severity": "High",
+        "Status": "Open"
+    }
+}
