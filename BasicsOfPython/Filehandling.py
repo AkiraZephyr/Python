@@ -1,0 +1,6 @@
+file = open("C:/Academics/Python/BasicsOfPython/test.txt", "r")
+content = file.read()
+line = file.readline()
+lines = file.readlines()
+print(content)
+file.close()
