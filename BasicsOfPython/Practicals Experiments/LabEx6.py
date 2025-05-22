@@ -15,5 +15,5 @@ def get_most_frequent_words(filename, top_n = 5):
     except FileNotFoundError:
         print(f"Error: The file '{filename}' was not found.")
 
-filename = input("Enter the filename(e.g., 'sample.txt'): ")
+filename = "BasicsOfPython/Practicals Experiments/" + input("Enter the filename(e.g., 'sample.txt'): ")
 get_most_frequent_words(filename, top_n = 5)
