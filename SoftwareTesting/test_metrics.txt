@@ -1,0 +1,7 @@
+TC001, pass, 0
+TC002, fail, 2
+TC003, pass, 0
+TC004, fail, 1
+TC005, pass, 0
+TC006, pass, 0
+TC007, fail, 3
